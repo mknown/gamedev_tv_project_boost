@@ -231,3 +231,83 @@ Received Import Request.
 Start importing Assets/Rocket Ship.prefab using Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce6a6af243a9a1263b9ce8cc86cb0e17') in 0.363703 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 51
+========================================================================
+Received Import Request.
+  Time since last request: 4049.568410 seconds.
+  path: Assets/Light_Landing_Pad.prefab
+  artifactKey: Guid(29c6efe16577e544f9a7acf9d1641671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Light_Landing_Pad.prefab using Guid(29c6efe16577e544f9a7acf9d1641671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6531c8279f2c79ca63ac1675f94d8b0d') in 0.002718 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Success Particles.prefab
+  artifactKey: Guid(bb85dda163412634e9d46dab1957b235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Success Particles.prefab using Guid(bb85dda163412634e9d46dab1957b235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef539fcf609d20a77edd518289300d30') in 0.037755 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Spotlight.prefab
+  artifactKey: Guid(4efb28f38441d524b8338240cea9dbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spotlight.prefab using Guid(4efb28f38441d524b8338240cea9dbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f971bfec56820a07bcc35b0144c78e15') in 0.002381 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Main Camera.prefab
+  artifactKey: Guid(04ba9cc1e9f7d42a19196588efaba3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Camera.prefab using Guid(04ba9cc1e9f7d42a19196588efaba3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be32295f6dc7f34e20d1fb859907579') in 0.002483 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Rocket Ship.prefab
+  artifactKey: Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rocket Ship.prefab using Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0fca8bff0e8a523ebe3408d2db73c33') in 0.059744 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 51
+========================================================================
+Received Import Request.
+  Time since last request: 15.819143 seconds.
+  path: Assets/Light_Landing_Pad.prefab
+  artifactKey: Guid(29c6efe16577e544f9a7acf9d1641671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Light_Landing_Pad.prefab using Guid(29c6efe16577e544f9a7acf9d1641671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd7d00ea826a7e96f17902cde62f8d2') in 0.001748 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Spotlight.prefab
+  artifactKey: Guid(4efb28f38441d524b8338240cea9dbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spotlight.prefab using Guid(4efb28f38441d524b8338240cea9dbeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ae4537ea966450485dea7c11ff28fe9') in 0.001638 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Success Particles.prefab
+  artifactKey: Guid(bb85dda163412634e9d46dab1957b235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Success Particles.prefab using Guid(bb85dda163412634e9d46dab1957b235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abff4cde8556083ce2b6869d6e4d390e') in 0.011417 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Main Camera.prefab
+  artifactKey: Guid(04ba9cc1e9f7d42a19196588efaba3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Main Camera.prefab using Guid(04ba9cc1e9f7d42a19196588efaba3c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbc7e659a87b06e124533c77f1b86110') in 0.002812 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 7
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Rocket Ship.prefab
+  artifactKey: Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Rocket Ship.prefab using Guid(b50165df3e0f64bd38ace19f08d56c9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '528f5a2abaec2f38ddc85b55c9ea444c') in 0.016364 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 51

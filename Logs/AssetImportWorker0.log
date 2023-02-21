@@ -199,3 +199,108 @@ Received Import Request.
 Start importing Assets/Levels/chompers.unity using Guid(de9c081d1ae006247bb8224e42627eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d4f6ba3c6aaeeabb643a1baac3473b0') in 0.000639 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 434.515638 seconds.
+  path: Assets/Levels/easy gap.unity
+  artifactKey: Guid(f61bd238a182e5544a155110cb1d7723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/easy gap.unity using Guid(f61bd238a182e5544a155110cb1d7723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78e94f3e1722acca83583a453da420f8') in 0.000674 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 38.648571 seconds.
+  path: Assets/Levels/Level 1/LightingData.asset
+  artifactKey: Guid(16700971609f84103b243fe67e9dde70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 1/LightingData.asset using Guid(16700971609f84103b243fe67e9dde70) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Lighting data asset ‘LightingData’ is incompatible with the current Unity version. Please use Generate Lighting to rebuild the lighting data. Realtime Global Illumination cannot be used until the lighting data is rebuilt.
+ -> (artifact id: 'bd6908500c05983762efbcab39f735a7') in 0.001693 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 8.262125 seconds.
+  path: Assets/Levels/Level 1/ReflectionProbe-0.exr
+  artifactKey: Guid(bc6914b17872d484d95e8c29f1af48cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/Level 1/ReflectionProbe-0.exr using Guid(bc6914b17872d484d95e8c29f1af48cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01eadf8fed912717560ba5f1a9b021d2') in 0.034297 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 3513.557540 seconds.
+  path: Assets/Directional Light.prefab
+  artifactKey: Guid(17ce8278a6e5b4ab09efa75ac2b34610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Directional Light.prefab using Guid(17ce8278a6e5b4ab09efa75ac2b34610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75428e94b3c788e70e73d8ee5b88eea5') in 0.002881 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Moving Obstacle.prefab
+  artifactKey: Guid(7c712204cac2d7747b036db5a9299218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Moving Obstacle.prefab using Guid(7c712204cac2d7747b036db5a9299218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54837f09166d1dc65e674911cf761247') in 0.041305 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Spotlight (1).prefab
+  artifactKey: Guid(525e7d1f4c276ed45bff527904266ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spotlight (1).prefab using Guid(525e7d1f4c276ed45bff527904266ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a7b865f4028a33f13f4e434c74de114') in 0.002060 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Levels/chompers.unity
+  artifactKey: Guid(de9c081d1ae006247bb8224e42627eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/chompers.unity using Guid(de9c081d1ae006247bb8224e42627eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab9393cf34301268906cc3b72fe18ff7') in 0.000358 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Success Particles 1.prefab
+  artifactKey: Guid(bc9f686fe35d064459303d3814451a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Success Particles 1.prefab using Guid(bc9f686fe35d064459303d3814451a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f86c338b38f5b4a643c2adbdabe62c4') in 0.036253 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 15.844197 seconds.
+  path: Assets/Directional Light.prefab
+  artifactKey: Guid(17ce8278a6e5b4ab09efa75ac2b34610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Directional Light.prefab using Guid(17ce8278a6e5b4ab09efa75ac2b34610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbed6e37af0291f17dfd39f79d975342') in 0.001910 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Moving Obstacle.prefab
+  artifactKey: Guid(7c712204cac2d7747b036db5a9299218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Moving Obstacle.prefab using Guid(7c712204cac2d7747b036db5a9299218) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46d6aec0c6776d98f5812b0d872d84be') in 0.011504 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 15
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Spotlight (1).prefab
+  artifactKey: Guid(525e7d1f4c276ed45bff527904266ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spotlight (1).prefab using Guid(525e7d1f4c276ed45bff527904266ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '182f6f60b136c709136834fead4fb7bc') in 0.002257 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 5
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Levels/chompers.unity
+  artifactKey: Guid(de9c081d1ae006247bb8224e42627eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/chompers.unity using Guid(de9c081d1ae006247bb8224e42627eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44df1eabab8f3ebec490dcba910b1df1') in 0.000640 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/Success Particles 1.prefab
+  artifactKey: Guid(bc9f686fe35d064459303d3814451a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Success Particles 1.prefab using Guid(bc9f686fe35d064459303d3814451a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f0c073a52a659b44e3f458a949254c') in 0.008028 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 6
