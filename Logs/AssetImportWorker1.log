@@ -231,3 +231,11 @@ Received Import Request.
 Start importing Assets/Success Particles 1.prefab using Guid(bc9f686fe35d064459303d3814451a4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24aeb4d63a1e012f8dd28882899eeca7') in 0.010515 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 6
+========================================================================
+Received Import Request.
+  Time since last request: 5088.727219 seconds.
+  path: Assets/Environments/Landing Pad.prefab
+  artifactKey: Guid(9786245835cb6da4db2f8f706a9ef886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environments/Landing Pad.prefab using Guid(9786245835cb6da4db2f8f706a9ef886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e23d4f76514f1d1b8d4229b13deba71') in 0.274116 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 11

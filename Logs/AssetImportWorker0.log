@@ -215,3 +215,52 @@ Received Import Request.
 Start importing Assets/Levels/guantlet.unity using Guid(932bee6a57584d546abacc34b7174f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1b8134338ccb02129345375d6282636') in 0.000531 seconds 
 Number of updated asset objects reloaded before import = 0
 Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 967.038912 seconds.
+  path: Assets/Levels/chompersSettings.lighting
+  artifactKey: Guid(1b28fe9f178324c44b7252de4089c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/chompersSettings.lighting using Guid(1b28fe9f178324c44b7252de4089c46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) LightingSettings: switching bake backend from 1 to 0.
+ -> (artifact id: '4548650b01c0288867fc5d98c9fa6ff7') in 0.002148 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 156.759254 seconds.
+  path: Assets/Environments/Backdrop.prefab
+  artifactKey: Guid(524c16a7750caff47987782cf7a1d94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environments/Backdrop.prefab using Guid(524c16a7750caff47987782cf7a1d94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8714c1b367c7a1944a3acf90ecd1570') in 0.020540 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Environments/Moving Obstacle (0).prefab
+  artifactKey: Guid(7c2bbb03d6f9eef4a84aecf72b83dc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environments/Moving Obstacle (0).prefab using Guid(7c2bbb03d6f9eef4a84aecf72b83dc1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef079a86685f174851e255061035339e') in 0.015302 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 16
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Environments/Obstacle.prefab
+  artifactKey: Guid(4e11d49a5825148049bd6786ad44dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environments/Obstacle.prefab using Guid(4e11d49a5825148049bd6786ad44dc08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '208784a5eee5d9087d305d8132c3ac1d') in 0.009361 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Environments/Launch Pad.prefab
+  artifactKey: Guid(d0f10fb9aead9414ea73e9a3f2713fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Environments/Launch Pad.prefab using Guid(d0f10fb9aead9414ea73e9a3f2713fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7f7e4f9c3a86f3751a176435236eca9') in 0.007999 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 8
+========================================================================
+Received Import Request.
+  Time since last request: 127.787865 seconds.
+  path: Assets/Levels/chompers.unity
+  artifactKey: Guid(de9c081d1ae006247bb8224e42627eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Levels/chompers.unity using Guid(de9c081d1ae006247bb8224e42627eae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6189d8e9afe013382cf00788a66c02b3') in 0.000477 seconds 
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
